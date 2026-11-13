@@ -32,7 +32,7 @@
     "line2": "CN-HET / 40.84°N"
   },
   "boot": {
-    "kicker": "满久琦 // PERSONAL ARCHIVE",
+    "kicker": "周富源 // PERSONAL ARCHIVE",
     "title": "天上如是，地下亦然"
   },
   "scene": {
@@ -62,7 +62,7 @@
     "eyebrow": ["XIAOMAN'S INK", "EST. 2017", "CN-HH"],
     "title": [{ "text": "天上如是" }, { "text": "地下亦然", "accent": "." }],
     "subtitleEn": "WELCOME TO XIAOMAN'S INK",
-    "subtitle": "满久琦 / 运维、学生、开发、博主。因为生活而去感受，学习、生活、程序、爱、和平。",
+    "subtitle": "周富源 / 运维、学生、开发、博主。因为生活而去感受，学习、生活、程序、爱、和平。",
     "actions": [
       {
         "label": "关于我",
