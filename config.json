@@ -1,16 +1,16 @@
 {
   "meta": {
     "lang": "zh-CN",
-    "title": "满久琦 · 小满1221 | Xiaoman's Ink",
-    "description": "满久琦（小满1221）· 运维、学生、开发、博主。天上如是，地下亦然。"
+    "title": "周富源 · 梦影 | Mengying's Ink",
+    "description": "周富源（梦影）· 运维、学生、开发、博主。天上如是，地下亦然。"
   },
   "theme": {
     "accent": "#00ff00"
   },
   "brand": {
-    "name": "小满1221",
-    "nameEn": "MAN JIUQI",
-    "alias": "满久琦",
+    "name": "梦影",
+    "nameEn": "ZHOU FUYUAN",
+    "alias": "周富源",
     "logo": "https://static.yhdzz.cn/imgs/xiaoman1221/xiaoman1221-new.jpg"
   },
   "header": {
