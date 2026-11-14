@@ -59,9 +59,9 @@
   },
   "hero": {
     "image": "/images/hero.svg",
-    "eyebrow": ["XIAOMAN'S INK", "EST. 2017", "CN-HH"],
+    "eyebrow": ["MENGYING'S INK", "EST. 2017", "CN-HH"],
     "title": [{ "text": "一腔热爱" }, { "text": "一技谋生", "accent": "." }],
-    "subtitleEn": "WELCOME TO XIAOMAN'S INK",
+    "subtitleEn": "WELCOME TO Dream Shadow's homepage",
     "subtitle": "梦影 / 热衷于 Linux、Web 相关内容，在代码与服务器之间，边走边学。",
     "actions": [
       {
@@ -78,7 +78,7 @@
       }
     ],
     "meta": [
-      { "label": "IDENTITY / 身份", "value": "运维 · 学生 · 开发 · 博主" },
+      { "label": "IDENTITY / 身份", "value": "折腾 · 记录 · 影视 · 音乐" },
       { "label": "LOCATION / 坐标", "value": "CN-HH · 40.84°N" },
       { "label": "STATUS / 状态", "value": "ONLINE", "tone": "online" },
       { "label": "VERSION / 版本", "value": "EST. 2017" }
@@ -114,16 +114,16 @@
       "caption": "MAN JIUQI"
     },
     "idCard": {
-      "headRight": "XIAOMAN1221-{year}",
+      "headRight": "MENGYINGIO-{year}",
       "fields": [
         { "label": "NAME / 姓名", "value": "梦影" },
-        { "label": "ROLE / 职业", "value": "运维 · 开发 · 博主" },
+        { "label": "ROLE / 职业", "value": "运维 · 开发" },
         { "label": "BASE / 据点", "value": "中国 · 临沂市" },
         { "label": "FOCUS / 专注", "value": "Ops / Dev / Web / Writing" },
         { "label": "MAIL / 邮箱", "value": "a740762356@gmail.com" },
         { "label": "STATUS / 状态", "value": "AVAILABLE", "tone": "online" }
       ],
-      "code": "2017 — {year} / XIAOMAN 1221"
+      "code": "2017 — {year} / Mengying io"
     }
   },
   "capabilities": {
