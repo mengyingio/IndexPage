@@ -2,7 +2,7 @@
   "meta": {
     "lang": "zh-CN",
     "title": "周富源 · 梦影 | Mengying's Ink",
-    "description": "周富源（梦影）· 运维、学生、开发、博主。天上如是，地下亦然。"
+    "description": "梦影· 运维、热爱、开发、记录。一腔热爱，一技谋生。"
   },
   "theme": {
     "accent": "#00ff00"
@@ -14,7 +14,7 @@
     "logo": "https://static.yhdzz.cn/imgs/xiaoman1221/xiaoman1221-new.jpg"
   },
   "header": {
-    "cta": { "label": "BLOG", "href": "https://www.yhdzz.cn/" }
+    "cta": { "label": "BLOG", "href": "https://4wa.cc/" }
   },
   "clock": {
     "timezone": "Asia/Shanghai",
