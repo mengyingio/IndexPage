@@ -1,7 +1,7 @@
 {
   "meta": {
     "lang": "zh-CN",
-    "title": "周富源 · 梦影 | Mengying's Ink",
+    "title": "梦影 | Mengying's Ink",
     "description": "梦影· 运维、热爱、开发、记录。一腔热爱，一技谋生。"
   },
   "theme": {
@@ -11,7 +11,7 @@
     "name": "梦影",
     "nameEn": "Meng  ying",
     "alias": "以爱为热",
-    "logo": "https://static.yhdzz.cn/imgs/xiaoman1221/xiaoman1221-new.jpg"
+    "logo": "https://bei.4wa.cc/imgs/mengyingio-tx.jpg"
   },
   "header": {
     "cta": { "label": "BLOG", "href": "https://4wa.cc/" }
@@ -194,7 +194,7 @@
         "description": "面向旅行社、景区接待、研学团建等团队运营场景的开源全流程管理系统：从预订单录入到归档留存，消费自动核算、凭证统一归档，每一步操作可审计。 ",
         "client": "FreeImage / 压油沟",
         "href": "https://bei.4wa.cc/",
-        "image": "https://static.yhdzz.cn/imgs/indexpage/cloudreve-index.png",
+        "image": "https://bei.4wa.cc/imgs/YYG.png",
         "tags": ["CLOUD", "STORAGE"],
         "accent": "#49ffb8"
       },
