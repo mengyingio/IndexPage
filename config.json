@@ -9,8 +9,8 @@
   },
   "brand": {
     "name": "梦影",
-    "nameEn": "ZHOU FUYUAN",
-    "alias": "周富源",
+    "nameEn": "Meng  ying",
+    "alias": "以爱为热",
     "logo": "https://static.yhdzz.cn/imgs/xiaoman1221/xiaoman1221-new.jpg"
   },
   "header": {
@@ -60,9 +60,9 @@
   "hero": {
     "image": "/images/hero.svg",
     "eyebrow": ["XIAOMAN'S INK", "EST. 2017", "CN-HH"],
-    "title": [{ "text": "天上如是" }, { "text": "地下亦然", "accent": "." }],
+    "title": [{ "text": "一腔热爱" }, { "text": "一技谋生", "accent": "." }],
     "subtitleEn": "WELCOME TO XIAOMAN'S INK",
-    "subtitle": "周富源 / 热衷于 Linux、Web 相关内容，在代码与服务器之间，边走边学。",
+    "subtitle": "梦影 / 热衷于 Linux、Web 相关内容，在代码与服务器之间，边走边学。",
     "actions": [
       {
         "label": "关于我",
@@ -191,20 +191,11 @@
       },
       {
         "title": "压油沟团队档案系统",
-        "description": "团队档案管理系统的诞生源于实际业务中的痛点：在团队接待运营中，旅行社资料散落在微信聊天记录里，合同照片存在手机相册中，团队消费靠 Excel 手动核算，带队负责人的票据迟迟收不齐，月底统计时数据对不上…… ",
+        "description": "面向旅行社、景区接待、研学团建等团队运营场景的开源全流程管理系统：从预订单录入到归档留存，消费自动核算、凭证统一归档，每一步操作可审计。 ",
         "client": "FreeImage / 压油沟",
         "href": "https://bei.4wa.cc/",
         "image": "https://static.yhdzz.cn/imgs/indexpage/cloudreve-index.png",
         "tags": ["CLOUD", "STORAGE"],
-        "accent": "#49ffb8"
-      },
-      {
-        "title": "小满图床",
-        "description": "个人网盘与文件分享空间。",
-        "client": "FreeImage / 随时存取",
-        "href": "https://www.freeima.com/",
-        "image": "https://static.yhdzz.cn/imgs/indexpage/freeima-index.png",
-        "tags": ["FREE", "IMAGE"],
         "accent": "#49ffb8"
       },
       {
@@ -239,15 +230,15 @@
       { "label": "REPLY / 回复", "text": "通常 24 小时内，节假日可能稍慢。" }
     ],
     "links": [
-      { "label": "BLOG / 博客", "href": "https://www.yhdzz.cn/" },
-      { "label": "GITHUB / 代码", "href": "https://github.com/xiaoman1221" },
-      { "label": "CLOUD / 网盘", "href": "https://www.freeima.com/" },
-      { "label": "STUDIO / 工作室", "href": "https://bbs.ce-studio.cn/" }
+      { "label": "BLOG / 主页", "href": "https://4wa.cc/" },
+      { "label": "GITHUB / 代码", "href": "https://github.com/mengyingio" },
+      { "label": "CLOUD / 网盘", "href": "https://pan.4wa.cc/" },
+      { "label": "STUDIO / 云电工作室", "href": "https://bbs.ce-studio.cn/" }
     ]
   },
   "techStack": [
     "Mengying",
-    "周富源",
+    "梦影",
     "AI",
     "LLM",
     "Java",
@@ -272,25 +263,21 @@
     "CSS"
   ],
   "ticker": [
-    "天上如是，地下亦然",
+    "一腔热爱，一技谋生",
     "技术宅拯救世界！爱与和平！",
     "学习、生活、程序、爱、和平",
-    "满久琦 · 小满1221"
+    "梦影 · 一直在"
   ],
   "footer": {
-    "copyright": "© {year} 满久琦 / 小满1221",
+    "copyright": "© {year} 梦影 / Mengying",
     "customLink": {
-      "label": "小满的墨水瓶",
-      "href": "https://www.yhdzz.cn/"
+      "label": "主页",
+      "href": "https://4wa.cc/"
     },
     "credits": [
       {
-        "text": "蒙ICP备2022000574号-1  ",
+        "text": "鲁ICP备2025149471号-1  ",
         "href": "https://beian.miit.gov.cn/"
-      },
-      {
-        "text": "蒙公网安备15042902150512号",
-        "href": "https://beian.mps.gov.cn/#/query/webSearch"
       },
       { "text": " · VISUAL LANGUAGE AFTER " },
       {
@@ -299,8 +286,8 @@
       },
       { "text": " · CONTENT FROM " },
       {
-        "text": "YHDZZ.CN",
-        "href": "https://www.yhdzz.cn/about"
+        "text": "云电工作室",
+        "href": "https://bbs.ce-studio.cn/"
       }
     ]
   }
