@@ -32,8 +32,8 @@
     "line2": "CN-HET / 40.84°N"
   },
   "boot": {
-    "kicker": "周富源 // PERSONAL ARCHIVE",
-    "title": "天上如是，地下亦然"
+    "kicker": "梦影 // PERSONAL ARCHIVE",
+    "title": "到底想要，怎样的生活"
   },
   "scene": {
     "accent": "#e6ff2e",
@@ -62,7 +62,7 @@
     "eyebrow": ["XIAOMAN'S INK", "EST. 2017", "CN-HH"],
     "title": [{ "text": "天上如是" }, { "text": "地下亦然", "accent": "." }],
     "subtitleEn": "WELCOME TO XIAOMAN'S INK",
-    "subtitle": "周富源 / 运维、学生、开发、博主。因为生活而去感受，学习、生活、程序、爱、和平。",
+    "subtitle": "周富源 / 热衷于 Linux、Web 相关内容，在代码与服务器之间，边走边学。",
     "actions": [
       {
         "label": "关于我",
@@ -71,9 +71,9 @@
         "style": "primary"
       },
       {
-        "label": "小满的墨水瓶",
+        "label": "团队档案管理系统",
         "labelEn": "VISIT BLOG",
-        "href": "https://www.yhdzz.cn/",
+        "href": "https://bei.4wa.cc/",
         "style": "ghost"
       }
     ],
@@ -94,8 +94,8 @@
     "title": "关于我",
     "titleEn": "ABOUT ME",
     "note": "// HELLO",
-    "introHtml": "你好👋<br>我叫<em>周富源</em>，<br>是运维，学生，开发，博主。",
-    "bio": "目前生活在 中国，临沂市市。生于 2003 年，就读于 内蒙古鸿德文理学院 计算机科学与技术，INFP-T 调停者。喜欢折腾 Linux 服务器、写代码、记录生活，也喜欢番剧、游戏和音乐。",
+    "introHtml": "你好👋<br>我叫<em>梦影</em>，<br>热衷于计算机各类知识，愿意沉下心慢慢探索，在学习里寻找答案。",
+    "bio": "目前生活在 中国，临沂市。生于 2003 年，喜欢折腾 Linux 服务器、写代码、记录生活，也喜欢影视、游戏和音乐。",
     "quote": {
       "mode": "hitokoto",
       "endpoint": "https://v1.hitokoto.cn/?encode=json&charset=utf-8&c=d&c=i&c=k",
@@ -116,11 +116,11 @@
     "idCard": {
       "headRight": "XIAOMAN1221-{year}",
       "fields": [
-        { "label": "NAME / 姓名", "value": "周富源" },
-        { "label": "ROLE / 职业", "value": "运维 · 学生 · 开发 · 博主" },
-        { "label": "BASE / 据点", "value": "中国 · 呼和浩特" },
+        { "label": "NAME / 姓名", "value": "梦影" },
+        { "label": "ROLE / 职业", "value": "运维 · 开发 · 博主" },
+        { "label": "BASE / 据点", "value": "中国 · 临沂市" },
         { "label": "FOCUS / 专注", "value": "Ops / Dev / Web / Writing" },
-        { "label": "MAIL / 邮箱", "value": "im@manjiuqi.com" },
+        { "label": "MAIL / 邮箱", "value": "a740762356@gmail.com" },
         { "label": "STATUS / 状态", "value": "AVAILABLE", "tone": "online" }
       ],
       "code": "2017 — {year} / XIAOMAN 1221"
@@ -172,28 +172,28 @@
     "hint": "WHEEL / SWIPE HORIZONTALLY · 滚轮或拖动查看更多",
     "items": [
       {
-        "title": "小满的墨水瓶",
-        "description": "运行 3247 天的个人博客，92 篇文章，记录运维、开发与生活。",
+        "title": "梦影私人网盘",
+        "description": "个人网盘与文件分享空间，一个为IT行业整合工具特搭建的一个在线网盘，供IT人力供需站使用",
         "client": "你好，很高兴认识你 👋",
-        "href": "https://www.yhdzz.cn/",
+        "href": "https://pan.4wa.cc/",
         "image": "https://static.yhdzz.cn/imgs/indexpage/ink-index.png",
         "tags": ["BLOG", "92 POSTS"],
         "accent": "#0066FF"
       },
       {
-        "title": "一言GO",
-        "description": "基于 Go 的一言 API 项目，随手记录灵感与句子。",
+        "title": "梦影影视",
+        "description": "因为我的小女朋友想看！所以搭建了一个影视站",
         "client": "Open Source / HitokotoGo",
-        "href": "https://github.com/xiaoman1221/HitokotoGo",
+        "href": "https://ys.4wa.cc/",
         "image": "https://static.yhdzz.cn/imgs/indexpage/hitokotogo-index.png",
         "tags": ["GO", "API"],
         "accent": "#ff3ea5"
       },
       {
-        "title": "小满网盘",
-        "description": "个人网盘与文件分享空间。",
-        "client": "FreeImage / 随时存取",
-        "href": "https://pan.yhdzz.cn/",
+        "title": "压油沟团队档案系统",
+        "description": "团队档案管理系统的诞生源于实际业务中的痛点：在团队接待运营中，旅行社资料散落在微信聊天记录里，合同照片存在手机相册中，团队消费靠 Excel 手动核算，带队负责人的票据迟迟收不齐，月底统计时数据对不上…… ",
+        "client": "FreeImage / 压油沟",
+        "href": "https://bei.4wa.cc/",
         "image": "https://static.yhdzz.cn/imgs/indexpage/cloudreve-index.png",
         "tags": ["CLOUD", "STORAGE"],
         "accent": "#49ffb8"
@@ -224,13 +224,13 @@
     "note": "// SAY HELLO",
     "kicker": "HELLO THERE",
     "kickerEmoji": "👋",
-    "email": "im@manjiuqi.com",
+    "email": "a740762356@gmail.com",
     "line": "你好，很高兴认识你。",
     "lineEmoji": "👋",
     "lead": "不管是项目合作、技术交流，还是只是想聊聊最近在读什么，都欢迎写信。",
     "availability": "AVAILABLE FOR WORK",
     "response": "通常 24 小时内回复",
-    "base": "中国 · 呼和浩特 / UTC+8",
+    "base": "中国 · 临沂市 / UTC+8",
     "language": "中文 / English",
     "panelNote": "运维、前端、写作、合作，或者只是打个招呼。",
     "protocol": [
